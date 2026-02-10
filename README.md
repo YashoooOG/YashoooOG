@@ -22,7 +22,7 @@ understanding how things work under the hood, and gaming ofc.
 </p>
 
 ---
-
+<!--
 ## 🧠 Programming & Concepts
 
 **Programming Languages**  
@@ -105,7 +105,7 @@ understanding how things work under the hood, and gaming ofc.
 </table>
 
 ---
-
+-->
 ## 🌐 Find Me Here
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashoooOG)
